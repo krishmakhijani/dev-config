@@ -14,6 +14,23 @@ Welcome to the **dev-config** repository! This collection features configuration
 - **VS Code Settings**: Predefined settings to enhance your coding productivity.
 - **Optional Tools**: Additional tools like `Fzf` and `Ripgrep` for better search.
 
+## Screenshots
+
+### VSCODE on macOS/Linux
+![Neovim and Tmux macOS](https://github.com/krishmakhijani/dev-config/assets/112251957/90015796-f923-49a4-964e-6f3599112e3c)
+
+### Starship and Tmux on macOS/Linux
+![Neovim and Tmux Linux](https://github.com/krishmakhijani/dev-config/assets/112251957/2affd2f4-dd62-41a9-abab-eb6119cb8ed2)
+
+### Starship Setup on macOS/Linux
+![VSCode macOS](https://github.com/krishmakhijani/dev-config/assets/112251957/9b429a79-2d2a-472e-8dc1-503e3d3a276d)
+
+### Neovim Setup on macOS/Linux
+![VSCode Linux](https://github.com/krishmakhijani/dev-config/assets/112251957/5d1cfcb0-a2a4-4a3b-8d87-d4b79dbd09bd)
+
+### Terminal Intellisense Overview
+![System Setup Overview](https://github.com/krishmakhijani/dev-config/assets/112251957/9ef0fbbd-933b-4bd7-925d-22037d1d9286)
+
 ## Installation
 
 ### Neovim
@@ -150,22 +167,7 @@ Welcome to the **dev-config** repository! This collection features configuration
      sudo apt install nodejs
      ```
 
-## Proof in the Screenshots
 
-### VSCODE on macOS/Linux
-![Neovim and Tmux macOS](https://github.com/krishmakhijani/dev-config/assets/112251957/90015796-f923-49a4-964e-6f3599112e3c)
-
-### Starship and Tmux on macOS/Linux
-![Neovim and Tmux Linux](https://github.com/krishmakhijani/dev-config/assets/112251957/2affd2f4-dd62-41a9-abab-eb6119cb8ed2)
-
-### Starship Setup on macOS/Linux
-![VSCode macOS](https://github.com/krishmakhijani/dev-config/assets/112251957/9b429a79-2d2a-472e-8dc1-503e3d3a276d)
-
-### Neovim Setup on macOS/Linux
-![VSCode Linux](https://github.com/krishmakhijani/dev-config/assets/112251957/5d1cfcb0-a2a4-4a3b-8d87-d4b79dbd09bd)
-
-### Terminal Intellisense Overview
-![System Setup Overview](https://github.com/krishmakhijani/dev-config/assets/112251957/9ef0fbbd-933b-4bd7-925d-22037d1d9286)
 
 ## License
 
